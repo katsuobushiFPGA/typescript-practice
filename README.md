@@ -8,9 +8,13 @@ typescript の練習用リポジトリ
 npm i -D webpack webpack-cli typescript ts-loader
 ```
 
-
 ## リポジトリを使用する手順
 ```
 npm install
 ```
 
+## コンパイル
+```
+npm run build
+# /dist/index.js が出来上がる
+```
